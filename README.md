@@ -2,6 +2,8 @@
 
 Graphical project at 42 School Silicon Valley
 
+Usage: ./fdf maps/'map name'
+
 Purpose:
 - To learn how to render a simple 3D image using the MLX library to interact with XWindows
 - Create a 3D wireframe using numbers from a file delimited by spaces
